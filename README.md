@@ -32,3 +32,14 @@ Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 ___
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+
+### Contatos:
+
+Conheça os mentores que foram referência para o projeto:
+
+[Walmyr Filho] (https://github.com/wlsf82)
+
+Caso tenha alguma dúvida poderá entrar em contato pelo meu [Linkedin] (https://www.linkedin.com/in/henrique-calazans/)
+
+
+Bora se conectar? =]
